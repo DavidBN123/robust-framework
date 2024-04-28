@@ -1,0 +1,42 @@
+{
+	"dependencies": {},
+	"devDependencies": {
+		"@rbxts/types": "^1.0.704",
+		"vitepress": "^1.0.0-rc.15"
+	},
+	"name": "robust_framework",
+	"description": "Robust is a simple and low effort structure based framework for ROBLOX.",
+	"version": "3.3.5",
+	"main": "src/init.lua",
+	"typings": "src/index.d.ts",
+	"directories": {
+		"doc": "docs"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"docs:dev": "vitepress dev docs",
+		"docs:build": "vitepress build docs",
+		"docs:preview": "vitepress preview docs"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Archimedes233G/robust.git"
+	},
+	"keywords": [
+		"framework",
+		"roblox",
+		"fast",
+		"organized",
+		"simple",
+		"structure based",
+		"robust",
+		"robustframework",
+		"low effort"
+	],
+	"author": "Archimedes233G",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/Archimedes233G/robust/issues"
+	},
+	"homepage": "https://github.com/Archimedes233G/robust"
+}
